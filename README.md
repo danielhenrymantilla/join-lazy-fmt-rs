@@ -12,7 +12,7 @@
  1. Add the following line to your `Cargo.toml`, under `[dependencies]`
 
     ```toml
-    join-lazy-fmt = "0.9.0"
+    join-lazy-fmt = "0.9.1"
     ```
 
  1. Add the folowing line to your `.rs` code to bring items in scope:

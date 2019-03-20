@@ -1,12 +1,12 @@
 [package]
 name = "join-lazy-fmt"
-version = "0.9.0"
+version = "0.9.1"
 authors = ["Daniel Henry-Mantilla <daniel.henry.mantilla@gmail.com>"]
 edition = "2018"
 
-documentation = "https://docs.rs/iter-python/"
-homepage = "https://github.com/danielhenrymantilla/iter-python-rs"
-repository = "https://github.com/danielhenrymantilla/iter-python-rs"
+documentation = "https://docs.rs/join-lazy-fmt/"
+homepage = "https://github.com/danielhenrymantilla/join-lazy-fmt-rs"
+repository = "https://github.com/danielhenrymantilla/join-lazy-fmt-rs"
 
 description = "Lazy `separator.join(iterable)` method and `lazy_format!` for Rust"
 keywords = ["join", "lazy", "format", "iterator", "human"]
