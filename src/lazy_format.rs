@@ -1,6 +1,7 @@
 use ::std::fmt;
 
-/// Lazy formatting.
+/// Lazy formatting, see [LazyFormat](
+/// https://docs.rs/join-lazy-fmt/0.9.2/join_lazy_fmt/struct.LazyFormat.html).
 #[macro_export]
 macro_rules! lazy_format {(
     $fmt:expr $(, $($args:tt)*)?
