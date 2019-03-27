@@ -23,7 +23,7 @@
 
 ## Example
 
-```rust,edition2018
+```rust
 use ::join_lazy_fmt::*;
 
 let sequence = format!("[{}]", ", ".join(0 .. 5));
